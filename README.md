@@ -66,6 +66,11 @@ To test the application, use these demo accounts:
 - Session management
 - Secure transfer verification
 
+## Images
+
+<img width="1916" height="494" alt="img1" src="https://github.com/user-attachments/assets/5fb954e7-645e-40d5-94c5-77b149f91166" />
+<img width="1919" height="1077" alt="img2" src="https://github.com/user-attachments/assets/899c03d4-f81c-4d15-a92d-ac9807346170" />
+
 ## Note
 
 This is a demo project and doesn't involve real money transactions. It's built for educational purposes to demonstrate modern JavaScript features and DOM manipulation.
