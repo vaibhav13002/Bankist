@@ -19,7 +19,7 @@ To test the application, use these demo accounts:
 
 1. **Account One**
 
-   - Username: js
+   - Username: vm
    - PIN: 1111
    - Type: Premium
 
